@@ -28,3 +28,5 @@ ansible-playbook -i inventories/personal playbook.yaml --ask-become-pass -D
 ```bash
 ansible-playbook -i inventories/personal playbook.yaml --ask-become-pass -D -e pkg_state=latest
 ```
+
+[![Analytics](https://ga-beacon.appspot.com/UA-45599204-2/welcome-page)](https://github.com/pmarques/ansible-mac-playbook)
